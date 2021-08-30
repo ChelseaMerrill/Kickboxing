@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.round {
+    margin: 20px;
+}
+
+.result{
+    width: 40px;
+    height: 40px;
+    border: solid;
+}
