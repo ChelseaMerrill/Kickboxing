@@ -1,0 +1,2 @@
+let round1Array=['jab, cross', 'jab, cross', 'jab, cross', 'jab, cross', 'jab, cross', 'jab, cross', 'jab, cross', '1st half jab, jab, cross 2nd half jab, cross, cross','jab, cross', 'jab, cross', 'jab, cross', '1st half jab, jab, cross 2nd half jab, cross, cross', '1st half jab, jab, cross 2nd half jab, cross, cross' ];
+let round2Array=['jab, cross, left hook, right hook', 'right upper, left upper, jab, left hook', 'left hook, right hook, right head hook, left upper']
